@@ -1,0 +1,13 @@
+{
+    "user":[
+        {
+            "id":1 ,"name":"Gokul"
+        },
+        {
+            "id":2 ,"name":"Ananth"
+        },
+        {
+            "id":3 ,"name":"Gokul Ananth"
+        },
+    ]
+}
