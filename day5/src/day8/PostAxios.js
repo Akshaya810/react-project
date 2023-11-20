@@ -10,6 +10,7 @@ export default function PostAxios() {
         .catch(error=>{console.log("something went wrong"+error)})
     }
   return (
+    
     <div>
       <form onSubmit={handleSubmit}>
         <input type="text" value={name} onChange={handleChangeName}></input>
